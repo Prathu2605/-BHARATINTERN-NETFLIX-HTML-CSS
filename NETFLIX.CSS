@@ -1,0 +1,58 @@
+.navbar
+ padding-top: 1%;
+
+padding-left: 2vw;
+
+padding-right: 4vw;
+
+height: 10vh;
+
+display: flex;
+
+flex-direction: row;
+
+justify-content: space-between;
+
+align-items: center;
+
+   image-logo{ 
+    color: #e12222;
+   }
+
+.btn-sign-in{
+
+padding-top: 2px;
+
+padding-bottom: 5px;
+
+padding-left: 10px;
+
+padding-right: 10px;
+
+background-color: #e13411ee;
+
+border-radius: 2px;
+
+color: white;
+
+cursor: pointer;
+
+width: fit-content;
+} 
+body, ul {
+    margin: 0;
+    padding: 0;
+}
+/* Style the header */
+header {
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+}
+
+
+
+
+
+
